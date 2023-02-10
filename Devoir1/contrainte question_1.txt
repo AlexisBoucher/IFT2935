@@ -1,0 +1,11 @@
+Date de naissance doit être avant date de décès
+Date de mariage doit être avant date de divorce
+jour est compris entre 1 et 31
+mois est compris entre 1 et 12
+age est un entier positif
+Nas est une combinaison de 9 chiffres unique a chaque individus
+sexe est homme ou femme
+un individus dont la date de naissance est supérieur a celle d'un autre individus ne peut être l'enfant de celui-ci
+un individus dont la date de naissance est inférieur a celle d'un autre individus ne peut être le parent de celui-ci
+un parent peut avoir plusieurs enfants, un enfant n'a que deux parents de sexe opposé
+un individus peut marier que des personnes du sexe opposé seulement
