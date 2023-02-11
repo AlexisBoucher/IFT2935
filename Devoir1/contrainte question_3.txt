@@ -1,0 +1,8 @@
+la Date d'un évènement ne peut être antérieur a Date_Fondation de la fraternité
+la Date de paye de cotisation ne peut être antérieur a Date_Fondation de la fraternité
+No_membre est une combinaison de 7 chiffres propre a chaque membre
+note est une valeure entre 0 et 100
+Montant est un nombre positif
+Statut peut être président, vice-président, secrétaire ou trésorier
+Nb_Crédit est un entier positif
+
